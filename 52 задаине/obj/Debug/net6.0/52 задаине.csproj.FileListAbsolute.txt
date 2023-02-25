@@ -1,0 +1,15 @@
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\52 задаине\bin\Debug\net6.0\52 задаине.exe
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\52 задаине\bin\Debug\net6.0\52 задаине.deps.json
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\52 задаине\bin\Debug\net6.0\52 задаине.runtimeconfig.json
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\52 задаине\bin\Debug\net6.0\52 задаине.dll
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\52 задаине\bin\Debug\net6.0\52 задаине.pdb
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\52 задаине\obj\Debug\net6.0\52 задаине.csproj.AssemblyReference.cache
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\52 задаине\obj\Debug\net6.0\52 задаине.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\52 задаине\obj\Debug\net6.0\52 задаине.AssemblyInfoInputs.cache
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\52 задаине\obj\Debug\net6.0\52 задаине.AssemblyInfo.cs
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\52 задаине\obj\Debug\net6.0\52 задаине.csproj.CoreCompileInputs.cache
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\52 задаине\obj\Debug\net6.0\52 задаине.dll
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\52 задаине\obj\Debug\net6.0\refint\52 задаине.dll
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\52 задаине\obj\Debug\net6.0\52 задаине.pdb
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\52 задаине\obj\Debug\net6.0\52 задаине.genruntimeconfig.cache
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\52 задаине\obj\Debug\net6.0\ref\52 задаине.dll

@@ -1,0 +1,15 @@
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\47 задание\bin\Debug\net6.0\47 задание.exe
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\47 задание\bin\Debug\net6.0\47 задание.deps.json
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\47 задание\bin\Debug\net6.0\47 задание.runtimeconfig.json
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\47 задание\bin\Debug\net6.0\47 задание.dll
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\47 задание\bin\Debug\net6.0\47 задание.pdb
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\47 задание\obj\Debug\net6.0\47 задание.csproj.AssemblyReference.cache
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\47 задание\obj\Debug\net6.0\47 задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\47 задание\obj\Debug\net6.0\47 задание.AssemblyInfoInputs.cache
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\47 задание\obj\Debug\net6.0\47 задание.AssemblyInfo.cs
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\47 задание\obj\Debug\net6.0\47 задание.csproj.CoreCompileInputs.cache
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\47 задание\obj\Debug\net6.0\47 задание.dll
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\47 задание\obj\Debug\net6.0\refint\47 задание.dll
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\47 задание\obj\Debug\net6.0\47 задание.pdb
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\47 задание\obj\Debug\net6.0\47 задание.genruntimeconfig.cache
+C:\Users\mecht\OneDrive\Рабочий стол\дз 24.02\47 задание\obj\Debug\net6.0\ref\47 задание.dll
